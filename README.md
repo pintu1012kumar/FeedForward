@@ -4,3 +4,4 @@
 4. create lib folder dbconnect file and  connect db.
 5. create resend.ts in lib && create helper and emails folder && types folder (apiResponse.ts).
 6. write code in sendVerificationEmail.ts (helpers).
+7. 
