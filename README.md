@@ -12,6 +12,5 @@
 12. create (auth) folder in app and create sign-in page.tsx .
 13. create context folder and create authProvider.tsx .
 14. test sign-up routes.
-15.  create check-username-unique folder.
 16. create check-username-unique & verify-code routes in api folder.
  
